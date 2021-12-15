@@ -1,4 +1,4 @@
-### OI, EU SOU O RHUAN 
+### OLÁ, EU SOU O RHUAN 
 
 - 🔭 Sou um estudante de Desenvolvimento de sistemas
 - 🌱 Eu estou aprendendo diversas linguagens como css,js,html,C#,entre outras
@@ -25,4 +25,16 @@
      <a href = "rhuan3003@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>
      <a href = "rhuan30.santana@outlook.com"><img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white></a>
      <a href = "https://www.linkedin.com/in/rhuan-santana-da-silva-266637215/"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white></a>
+    <a href = "https://github.com/RHU4N"><img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white></a>
   </div>
+
+  ##
+  <div>
+     <a href = "https://rhuanweb.000webhostapp.com/pg%2005.html"><img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white></a>
+     <a href = "https://rhuanweb.000webhostapp.com/WEB/pag07.html"><img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white></a>
+    <a href = "https://rhuanweb.000webhostapp.com/licao06.html"><img src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E></a>
+     <a href = "https://rhuanweb.000webhostapp.com/startbootstrap-clean-blog-gh-pages/"><img src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white></a>
+     <a href = "https://rhuanweb.000webhostapp.com/WEBHOS/pag17.html"><img src=https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white></a>
+   </DIV>
+  
+  
