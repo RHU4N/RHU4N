@@ -2,7 +2,6 @@
 
 - 🔭 Sou um estudante de Desenvolvimento de sistemas
 - 🌱 Eu estou aprendendo diversas linguagens como css,js,html,C#,entre outras
-- 😄 Pronomes:Ele/Dele
 
 <div align="center">
   <a href="https://github.com/RHU4N">
