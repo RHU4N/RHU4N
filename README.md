@@ -11,12 +11,14 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="RHUAN-HTML" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="RHUAN-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img align="center" alt="RHUAN-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="RHUAN-BOOT" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img align="center" alt="RHUAN-JQUERRY" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
-  <img align="center" alt="RHUAN-C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg">   
-  <img align="center" alt="RHUAN-PHP" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">  
+  <img align="center" alt="RHUAN-CSS" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img align="center" alt="RHUAN-JS" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="RHUAN-BOOT" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
+  <img align="center" alt="RHUAN-JQUERRY" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
+  <img align="center" alt="RHUAN-C#" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg">   
+  <img align="center" alt="RHUAN-PHP" height="40" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> 
+  <img aling="center" alt="RHUAN-PYTHON" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
 </div>
   
   ##
