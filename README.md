@@ -1,5 +1,4 @@
 ### OLÁ, EU SOU O RHUAN 
-
 - 🔭 Estudante de Desenvolvimento de sistemas
 - 🌱 Sempre aprendendo algo novo
 
