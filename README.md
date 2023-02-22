@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/RHU4N">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=RHU4N&show_icons=true&bg_color=000000&icon_color=78327D&text_color=471E4A&title_color=C151C9&border_color=3B183D&border_radius=15&include_all_commits=true&count_private=true&hide=contribs&locale=pt-br"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RHU4N&layout=compact&langs_count=135&bg_color=000000&text_color=9370DB&title_color=C151C9&border_color=3B183D&border_radius=15&locale=pt-br"/> 
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=RHU4N&show_icons=true&bg_color=000000&icon_color=78327D&text_color=471E4A&title_color=C151C9&border_color=3B183D&border_radius=15&include_all_commits=true&count_private=true&hide=contribs&locale=en"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RHU4N&layout=compact&langs_count=135&bg_color=000000&text_color=9370DB&title_color=C151C9&border_color=3B183D&border_radius=15&locale=en"/> 
 </div>
   
 <div style="display: inline_block" align="center"><br>
