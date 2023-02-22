@@ -1,5 +1,5 @@
 ### OLÁ, EU SOU O RHUAN 
-- 🔭 Estudante de Desenvolvimento de sistemas
+- 🔭 Estudante de Desenvolvimento de sistemas na Etec de Cotia
 - 🌱 Sempre aprendendo algo novo
 
   ##
