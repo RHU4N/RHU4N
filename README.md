@@ -1,7 +1,7 @@
 ### OLÁ, EU SOU O RHUAN 
 
-- 🔭 Sou um estudante de Desenvolvimento de sistemas
-- 🌱 Eu estou aprendendo diversas linguagens como css,js,html,C#,entre outras
+- 🔭 Estudante de Desenvolvimento de sistemas
+- 🌱 Sempre aprendendo algo novo
 
   ##
 
