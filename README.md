@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=78327D&width=435&lines=Ol%C3%A1+eu+sou+o+Rhuan)](https://git.io/typing-svg)
-- 🔭 Estudante de Desenvolvimento de sistemas na Etec de Cotia
-- 🌱 Sempre aprendendo algo novo
+##
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=78327D&width=435&lines=-+%F0%9F%94%AD+Estudante+de+DS+na+Etec+de+Cotia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=78327D&width=435&lines=-+%F0%9F%8C%B1+Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
 
   ##
 
