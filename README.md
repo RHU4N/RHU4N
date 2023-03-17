@@ -1,4 +1,4 @@
-### OLÁ, EU SOU O RHUAN 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=78327D&width=435&lines=Ol%C3%A1+eu+sou+o+Rhuan)](https://git.io/typing-svg)
 - 🔭 Estudante de Desenvolvimento de sistemas na Etec de Cotia
 - 🌱 Sempre aprendendo algo novo
 
@@ -32,5 +32,9 @@
      <a href = "https://www.linkedin.com/in/rhuan-santana-da-silva-266637215/"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white></a>
     <a href = "https://github.com/RHU4N"><img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white></a>
   </div>
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color78327D&height=120&section=footer"/>
+
+
 
  
