@@ -32,7 +32,7 @@
     <a href = "https://github.com/RHU4N"><img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white></a>
   </div>
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color78327D&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=78327D&height=120&section=footer"/>
 
 
 
