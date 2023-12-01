@@ -3,18 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3750&pause=500&color=78327D&center=falso&vCenter=falso&multiline=true&repeat=verdadeiro&width=350&lines=-%F0%9F%92%BB+Estudante+de+DS+em+Etec+de+Cotia;-%F0%9F%93%9A+Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
   ##
 
-<div align="center">
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+div align="center">
+  <a href="https://github.com/RHU4N">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=RHU4N&show_icons=true&bg_color=000001&icon_color=78327D&text_color=471E4A&title_color=C151C9&border_color=3B183D&border_radius=15&include_all_commits=true&count_private=true&hide=contribs&locale=en&theme=dark"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=RHU4N&show_icons=true&bg_color=000111&icon_color=78327D&text_color=471E4A&title_color=C151C9&border_color=3B183D&border_radius=15&include_all_commits=true&count_private=true&hide=contribs&locale=en&theme=light"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RHU4N&layout=compact&langs_count=140&bg_color=000001&text_color=9370DB&title_color=C151C9&border_color=3B183D&border_radius=15&locale=en&theme=dark"/>
+  
 </div>
   
 <div style="display: inline_block" align="center"><br>
