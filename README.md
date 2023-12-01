@@ -7,11 +7,11 @@
   <a href="https://github.com/RHU4N">
 <picture align="center">
   <source height="175em"
-    srcset="https://github-readme-stats.vercel.app/api?username=RHU4N&show_icons=true&bg_color=000001&icon_color=78327D&text_color=471E4A&title_color=C151C9&border_color=620096&border_radius=25&include_all_commits=true&count_private=true&hide=contribs&locale=en"
+    srcset="https://github-readme-stats.vercel.app/api?username=RHU4N&show_icons=true&bg_color=000001&icon_color=78327D&text_color=471E4A&title_color=C151C9&border_color=620096&border_radius=15&include_all_commits=true&count_private=true&hide=contribs&locale=en"
     media="(prefers-color-scheme: dark)"
   />
   <source height="175em"
-    srcset="https://github-readme-stats.vercel.app/api?username=RHU4N&show_icons=true&bg_color=ffffff&icon_color=78327D&text_color=471E4A&title_color=C151C9&border_color=620096&border_radius=25&include_all_commits=true&count_private=true&hide=contribs&locale=en"
+    srcset="https://github-readme-stats.vercel.app/api?username=RHU4N&show_icons=true&bg_color=ffffff&icon_color=78327D&text_color=471E4A&title_color=C151C9&border_color=620096&border_radius=15&include_all_commits=true&count_private=true&hide=contribs&locale=en"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=RHU4N&show_icons=true" />
