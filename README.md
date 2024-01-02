@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3750&pause=500&color=78327D&center=falso&vCenter=falso&repeat=verdadeiro&width=228&height=30&lines=Ol%C3%A1%2C+eu+sou+o+Rhuan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Stint+Ultra+Condensed&size=30&duration=500&color=78327D&vCenter=true&repeat=false&random=false&width=250&height=27&lines=Ol%C3%A1%2CEu+sou+o+Rhuan)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3750&pause=500&color=78327D&center=falso&vCenter=falso&multiline=true&repeat=verdadeiro&width=350&lines=-%F0%9F%92%BB+Estudante+de+DS+em+Etec+de+Cotia;-%F0%9F%93%9A+Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Stint+Ultra+Condensed&size=30&duration=500&color=78327D&center=false&vCenter=true&multiline=true&repeat=false&random=false&width=350&height=82&lines=-+%F0%9F%92%BB+Formado+em+DS+pela+Etec+de+Cotia;-+%F0%9F%93%96+Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
   ##
 
 <div align="center">
