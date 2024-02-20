@@ -32,19 +32,19 @@
 </div>
   
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="RHUAN-HTML" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="RHUAN-CSS" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img align="center" alt="RHUAN-JS" height="35" width="35" src="https://th.bing.com/th/id/R.4cb2d3028fa2487ea50620239536e26e?rik=V1xpKI94DUKnfQ&pid=ImgRaw&r=0">
-  <img align="center" alt="RHUAN-BOOT" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="RHUAN-C#" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg">   
-  <img align="center" alt="RHUAN-PHP" height="40" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> 
-  <img align="center" alt="RHUAN-PYTHON" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="RHUAN_MYSQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
-  <img align="center" alt="RHUAN_ANDROID" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-  <img align="center" alt="RHUAN-NODE" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-  <img align="center" alt="RHUAN_MONGO" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-  <img align="center" alt="RHUAN_REACT" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="RHUAN_ARDUINO" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <a href="https://pt.wikipedia.org/wiki/HTML"><img align="center" alt="RHUAN-HTML" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"></a>
+  <a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets"><img align="center" alt="RHUAN-CSS" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /></a>
+  <a href="https://pt.wikipedia.org/wiki/JavaScript"><img align="center" alt="RHUAN-JS" height="35" width="35" src="https://th.bing.com/th/id/R.4cb2d3028fa2487ea50620239536e26e?rik=V1xpKI94DUKnfQ&pid=ImgRaw&r=0"></a>
+  <a href="https://getbootstrap.com/"><img align="center" alt="RHUAN-BOOT" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"></a>
+  <a href="https://pt.wikipedia.org/wiki/C_Sharp"><img align="center" alt="RHUAN-C#" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg"></a>   
+  <a href="https://www.php.net/"><img align="center" alt="RHUAN-PHP" height="40" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /></a> 
+  <a href="https://www.python.org/"><img align="center" alt="RHUAN-PYTHON" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+  <a href="https://www.mysql.com/"><img align="center" alt="RHUAN_MYSQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a> 
+  <a href="https://developer.android.com/studio?hl=pt-br"><img align="center" alt="RHUAN_ANDROID" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /></a>
+  <a href="https://nodejs.org/en"><img align="center" alt="RHUAN-NODE" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /></a>
+  <a href="https://www.mongodb.com/pt-br"><img align="center" alt="RHUAN_MONGO" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /></a>
+  <a href="https://react.dev/"><img align="center" alt="RHUAN_REACT" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+  <a href="https://www.arduino.cc/"><img align="center" alt="RHUAN_ARDUINO" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /></a>
                     
 </div>
   
