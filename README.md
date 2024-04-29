@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Stint+Ultra+Condensed&size=30&duration=500&color=78327D&vCenter=true&repeat=false&random=false&width=250&height=27&lines=Ol%C3%A1%2CEu+sou+o+Rhuan)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Stint+Ultra+Condensed&size=30&duration=500&color=78327D&center=false&vCenter=true&multiline=true&repeat=false&random=false&width=350&height=82&lines=-+%F0%9F%92%BB+Formado+em+DS+pela+Etec+de+Cotia;-+%F0%9F%93%96+Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
-  ##
 
+##
 <div align="center">
   <a href="https://github.com/RHU4N">
 <picture align="center">
@@ -58,7 +58,14 @@
     <a href = "https://www.tinkercad.com/users/jit7d9RbwsX"><img src=https://img.shields.io/badge/Tinkercad-3e3636?style=for-the-badge&logo=tinkercad&logoColor=snow></a>
   </div>
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=78327D&height=120&section=footer"/>
+## 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhu4n&rows=2&column=-1&margin-w=15&margin-h=15&theme=darkhub&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="rhu4n" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rhu4n&label=Views&color=78327D&style=for-the-badge&abbreviated=true" alt="rhu4n" /> </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=78327D&height=120&section=footer"/>
+
+
+
 
 
 
