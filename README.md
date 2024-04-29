@@ -60,7 +60,6 @@
   
 ## 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhu4n&rows=2&column=-1&margin-w=15&margin-h=15&theme=darkhub&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="rhu4n" /></a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rhu4n&label=Views&color=78327D&style=for-the-badge&abbreviated=true" alt="rhu4n" /> </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=78327D&height=120&section=footer"/>
 
