@@ -35,9 +35,9 @@
   <a href="https://pt.wikipedia.org/wiki/HTML"><img align="center" alt="RHUAN-HTML" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"></a>
   <a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets"><img align="center" alt="RHUAN-CSS" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /></a>
   <a href="https://pt.wikipedia.org/wiki/JavaScript"><img align="center" alt="RHUAN-JS" height="35" width="35" src="https://th.bing.com/th/id/R.4cb2d3028fa2487ea50620239536e26e?rik=V1xpKI94DUKnfQ&pid=ImgRaw&r=0"></a>
-  <a href="https://getbootstrap.com/"><img align="center" alt="RHUAN-BOOT" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"></a>
+  <a href="https://getbootstrap.com/"><img align="center" alt="RHUAN-BOOT" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"></a>
   <a href="https://pt.wikipedia.org/wiki/C_Sharp"><img align="center" alt="RHUAN-C#" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg"></a>   
-  <a href="https://www.php.net/"><img align="center" alt="RHUAN-PHP" height="40" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /></a> 
+  <a href="https://www.php.net/"><img align="center" alt="RHUAN-PHP" height="40" width="45"  src="https://icongr.am/devicon/php-plain.svg?size=128&color=474a84" /></a> 
   <a href="https://www.python.org/"><img align="center" alt="RHUAN-PYTHON" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
   <a href="https://www.mysql.com/"><img align="center" alt="RHUAN_MYSQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a> 
   <a href="https://developer.android.com/studio?hl=pt-br"><img align="center" alt="RHUAN_ANDROID" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /></a>
