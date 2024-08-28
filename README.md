@@ -39,7 +39,7 @@
     <p>Skills 💡</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,php,py,mysql,androidstudio,nodejs,react,arduino" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,java,cs,php,py,mysql,androidstudio,nodejs,react,arduino" />
   </a>
 </p>
 </div>
