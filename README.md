@@ -70,14 +70,6 @@
 <details>
   <summary>Github Details 📝</summary>
 
-<p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RHU4N&bg_color=000001&text_color=9370DB&title_color=C151C9&border_color=620096&border_radius=25" media="(prefers-color-scheme: dark)">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RHU4N&bg_color=ffffff&icon_color=78327D&text_color=471E4A&title_color=C151C9&border_color=620096&border_radius=15" alt="rhu4n">
-  </picture>
-</p>
-
-
   <p align="center">
       <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhu4n&rows=2&column=-1&margin-w=15&margin-h=15&theme=darkhub&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="rhu4n" /></a> 
   </p>
