@@ -17,14 +17,14 @@
 
 <picture align="center" >
   <source height="175em"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RHU4N&layout=compact&langs_count=140&bg_color=000001&text_color=9370DB&title_color=C151C9&border_color=620096&border_radius=25&locale=pt-br"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RHU4N&layout=compact&langs_count=255&bg_color=000001&text_color=9370DB&title_color=C151C9&border_color=620096&border_radius=25&locale=pt-br"
     media="(prefers-color-scheme: dark)"
   />
   <source height="175em"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RHU4N&layout=compact&langs_count=140&bg_color=ffffff&text_color=7900ac&title_color=C151C9&border_color=620096&border_radius=25&locale=en"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RHU4N&layout=compact&langs_count=255&bg_color=ffffff&text_color=7900ac&title_color=C151C9&border_color=620096&border_radius=25&locale=en"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RHU4N&layout=compact&langs_count=140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RHU4N&layout=compact&langs_count=255" />
 </picture>
 </div> 
 </div>
