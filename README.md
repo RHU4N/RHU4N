@@ -35,7 +35,7 @@
     <p>Skills 💡</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,java,cs,php,py,mysql,androidstudio,nodejs,react,arduino" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,java,cs,php,py,mysql,androidstudio,nodejs,react,arduino,spring" />
   </a>
 </p>
 </div>
@@ -45,7 +45,7 @@
     <p>Tools 🛠️</p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,notion,figma" />
+      <img src="https://skillicons.dev/icons?i=git,notion,figma,postman" />
     </a>
   </p>
 </div>
