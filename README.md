@@ -35,7 +35,7 @@
     <p>Skills 💡</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,java,cs,php,py,mysql,androidstudio,nodejs,react,arduino,spring" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react,c,cs,py,mysql,mongodb,androidstudio,java,spring,arduino" />
   </a>
 </p>
 </div>
