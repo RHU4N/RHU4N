@@ -58,7 +58,7 @@
     <p>Profiles 📋</p>
   <div align="center">
      <a href="mailto:rhuan3003@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>
-     <a href="mailto:rhuan30.santana@outlook.com"><img src=https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=Outlook&logoColor=white></a>
+     <a href="mailto:rhuan30.santana@outlook.com"><img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white></a>
      <a href = "https://www.linkedin.com/in/rhuan-santana-da-silva-266637215/"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white></a>
     <a href = "https://github.com/RHU4N"><img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white></a>
     <a href = "https://www.tinkercad.com/users/jit7d9RbwsX"><img src=https://img.shields.io/badge/Tinkercad-3e3636?style=for-the-badge&logo=tinkercad&logoColor=snow></a>
