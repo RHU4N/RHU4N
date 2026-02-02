@@ -14,7 +14,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=RHU4N&show_icons=true" />
 </picture>
-
 <picture align="center" >
   <source height="175em"
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RHU4N&layout=compact&langs_count=15&bg_color=000001&text_color=9370DB&title_color=C151C9&border_color=620096&border_radius=25&locale=pt-br"
@@ -70,9 +69,9 @@
 <details>
   <summary>Github Details 📝</summary>
 
-  <p align="center">
+  <!-- <p align="center">
       <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhu4n&rows=2&column=-1&margin-w=15&margin-h=15&theme=darkhub&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="rhu4n" /></a> 
-  </p>
+  </p> -->
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RHU4N&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
