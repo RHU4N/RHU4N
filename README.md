@@ -39,7 +39,6 @@
 </p>
 </div>
 
-
 <div align="center">
     <p>Tools 🛠️</p>
   <p align="center">
@@ -49,9 +48,7 @@
   </p>
 </div>
 
-
-  ##
-
+##
 
   <div align="center">
     <p>Profiles 📋</p>
@@ -73,17 +70,6 @@
       <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhu4n&rows=2&column=-1&margin-w=15&margin-h=15&theme=darkhub&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="rhu4n" /></a> 
   </p> -->
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RHU4N&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RHU4N&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
-
-
-
-
-
-
-
-
- 
