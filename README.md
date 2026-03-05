@@ -1,12 +1,11 @@
-##
-<div align="center" style="display:flex;align-items:center;justify-content:center;flex-wrap:nowrap;gap:1rem;max-width:800px;margin:auto;">
+<h1>Olá, Eu sou o Rhuan</h1>
+
+<div align="center" style="display:flex;align-items:center;justify-content:center;flex-wrap:nowrap;gap:1rem;max-width:900px;margin:auto;">
   <div style="flex:0 0 auto;display:flex;justify-content:center;">
-    <video autoplay loop muted playsinline width="300" style="display:block;">
-      <source src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.mp4" type="video/mp4">
-    </video>
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Animação">
   </div>
   <div style="flex:0 0 auto;max-width:500px;">
-    <h2 align="justify">Sobre mim 👨‍💻</h2>
+    <h2>Sobre mim 👨‍💻</h2>
     <p align="justify">Olá! Eu sou o Rhuan 👋  
       Estudante de Desenvolvimento de Software Multiplataforma na Fatec Cotia  
       Técnico em Desenvolvimento de Sistemas pela Etec Cotia  
