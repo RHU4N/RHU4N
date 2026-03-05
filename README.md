@@ -82,6 +82,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RHU4N/RHU4N/output/pacman-contribution-graph.svg">
 </picture>
 
-
-
 </details>
