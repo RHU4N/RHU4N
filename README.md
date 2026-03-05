@@ -1,6 +1,6 @@
 <h2>Olá, Eu sou o Rhuan</h2>
 <div align="center">
-    <p> Github Stats ⚡</p>
+ <!--   <p> Github Stats ⚡</p>
 <div align="center">
   <a href="https://github.com/RHU4N">
 <picture align="center">
@@ -26,7 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RHU4N&layout=compact&langs_count=15" />
 </picture>
 </div> 
-</div>
+</div> -->
 
 <br>
 
@@ -74,12 +74,12 @@
 
 ###
 
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RHU4N/RHU4N/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RHU4N/RHU4N/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RHU4N/RHU4N/output/pacman-contribution-graph.svg">
 </picture>
+
+<!-- _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_ -->
 
 </details>
