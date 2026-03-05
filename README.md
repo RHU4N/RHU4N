@@ -1,21 +1,17 @@
-<h1>Olá, Eu sou o Rhuan</h1>
+<!-- <h1>Olá, Eu sou o Rhuan</h1> -->
+##
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="border:none;">
-    <tr>
-      <td width="50%" style="border:none;">
-         <img src="https://gifdb.com/images/high/irritated-cat-typing-on-keyboard-e0awoyntdi7c0clj.gif" width="300" alt="Animação">
-      </td>
-      </td>
-      <td width="50%" style="border:none;">
-        <h2>Sobre mim 👨‍💻</h2>
-        <p>Olá! Eu sou o Rhuan 👋  
-          Estudante de Desenvolvimento de Software Multiplataforma na Fatec Cotia  
-          Técnico em Desenvolvimento de Sistemas pela Etec Cotia  
-          Focado em desenvolvimento web e na construção de APIs e aplicações escaláveis</p>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:1rem;">
+  <div style="flex:0 0 auto;display:flex;justify-content:center;">
+    <img src="https://gifdb.com/images/high/irritated-cat-typing-on-keyboard-e0awoyntdi7c0clj.gif" width="300" alt="Animação">
+  </div>
+  <div style="flex:0 0 auto;max-width:500px;">
+    <h2 align="justify">Sobre mim 👨‍💻</h2>
+    <p align="justify">Olá! Eu sou o Rhuan 👋  
+      Estudante de Desenvolvimento de Software Multiplataforma na Fatec Cotia  
+      Técnico em Desenvolvimento de Sistemas pela Etec Cotia  
+      Focado em desenvolvimento web e na construção de APIs e aplicações escaláveis</p>
+  </div>
 </div>
 
 <div align="center">
