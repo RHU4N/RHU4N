@@ -15,8 +15,8 @@
   </tr>
 </table>
 
-<div align="center">
- <!--   <p> Github Stats ⚡</p>
+ <!-- <div align="center">
+  <p> Github Stats ⚡</p>
 <div align="center">
   <a href="https://github.com/RHU4N">
 <picture align="center">
@@ -44,7 +44,7 @@
 </div> 
 </div> -->
 
-<br>
+<!-- <br> -->
 
 <div align="center">
     <h3>Skills 💡</h3>
