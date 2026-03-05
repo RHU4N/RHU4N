@@ -1,5 +1,4 @@
-<h1>Olá, Eu sou o Rhuan</h1>
-
+##
 <table align="center" style="border:none;margin:auto;">
   <tr style="border:none;">
     <td style="border:none;padding:10px;vertical-align:middle;">
@@ -7,7 +6,7 @@
     </td>
     <td style="border:none;padding:10px;vertical-align:middle;text-align:left;">
       <h2>Sobre mim 👨‍💻</h2>
-      <p>Olá! Eu sou o Rhuan 👋  
+      <p>Olá! <b>Eu sou o Rhuan 👋</b>
           Estudante de Desenvolvimento de Software Multiplataforma na Fatec Cotia  
           Técnico em Desenvolvimento de Sistemas pela Etec Cotia  
           Tenho interesse em desenvolvimento de software e na criação de soluções que resolvam problemas reais.  
