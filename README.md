@@ -1,4 +1,22 @@
-<h2>Olá, Eu sou o Rhuan</h2>
+<h1>Olá, Eu sou o Rhuan</h1>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://gifdb.com/images/high/irritated-cat-typing-on-keyboard-e0awoyntdi7c0clj.gif" width="300" alt="Animação">
+      </td>
+      <td width="50%">
+        <h2>Sobre mim 👨‍💻</h2>
+        <p>Olá! Eu sou o Rhuan 👋  
+          Estudante de Desenvolvimento de Software Multiplataforma na Fatec Cotia  
+          Técnico em Desenvolvimento de Sistemas pela Etec Cotia  
+          Focado em desenvolvimento web e na construção de APIs e aplicações escaláveis</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <div align="center">
  <!--   <p> Github Stats ⚡</p>
 <div align="center">
@@ -31,7 +49,7 @@
 <br>
 
 <div align="center">
-    <p>Skills 💡</p>
+    <h3>Skills 💡</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,c,py,mysql,mongodb,androidstudio,java,spring,arduino,linux&perline=7" />
@@ -40,7 +58,7 @@
 </div>
 
 <div align="center">
-    <p>Tools 🛠️</p>
+    <h3>Tools 🛠️</h3>
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,notion,figma,postman" />
@@ -49,7 +67,7 @@
 </div>
 
 <div align="center">
-    <p>Studying at the moment 📚</p>
+    <h3>Currently Learning 📚</h3>
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=vuejs,vite,dotnet,cs" />
@@ -60,7 +78,7 @@
 ##
 
   <div align="center">
-    <p>Profiles 📋</p>
+    <h3>Profiles 📋</h3>
   <div align="center">
      <a href="mailto:rhuan3003@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>
      <a href="mailto:rhuan30.santana@outlook.com"><img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white></a>
