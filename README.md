@@ -1,5 +1,4 @@
-<h1>Olá, Eu sou o Rhuan</h1>
-
+##
 <div align="center" style="display:flex;align-items:center;justify-content:center;flex-wrap:nowrap;gap:1rem;max-width:800px;margin:auto;">
   <div style="flex:0 0 auto;display:flex;justify-content:center;">
     <video autoplay loop muted playsinline width="300" style="display:block;">
