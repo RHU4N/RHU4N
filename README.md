@@ -34,7 +34,7 @@
     <p>Skills 💡</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react,c,cs,py,mysql,mongodb,androidstudio,java,spring,arduino" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,c,py,mysql,mongodb,androidstudio,java,spring,arduino,linux&perline=5" />
   </a>
 </p>
 </div>
@@ -44,6 +44,15 @@
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,notion,figma,postman" />
+    </a>
+  </p>
+</div>
+
+<div align="center">
+    <p>Studying at the moment 📚</p>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vuejs,vite,dotnet,cs" />
     </a>
   </p>
 </div>
