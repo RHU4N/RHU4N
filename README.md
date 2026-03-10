@@ -54,9 +54,9 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,nodejs,react,c,py,mysql,mongodb,androidstudio,java,spring,arduino,linux&theme=dark&perline=7" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,nodejs,react,c,py,mysql,mongodb,androidstudio,java,spring,arduino,linux&theme=light&perline=7" />
-      <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,c,py,mysql,mongodb,androidstudio,java,spring,arduino,linux" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,nodejs,react,c,py,mysql,mongodb,androidstudio,java,spring,arduino,linux&perline=7&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,nodejs,react,c,py,mysql,mongodb,androidstudio,java,spring,arduino,linux&perline=7&theme=light" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,c,py,mysql,mongodb,androidstudio,java,spring,arduino,linux&perline=7" />
     </picture>
   </a>
 </p>
@@ -67,9 +67,9 @@
   <p align="center">
     <a href="https://skillicons.dev">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,notion,figma,postman&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,notion,figma,postman&theme=light" />
-        <img src="https://skillicons.dev/icons?i=git,notion,figma,postman" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,notion,figma,postman&perline=7&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,notion,figma,postman&perline=7&theme=light" />
+        <img src="https://skillicons.dev/icons?i=git,notion,figma,postman&perline=7" />
       </picture>
     </a>
   </p>
@@ -80,9 +80,9 @@
   <p align="center">
     <a href="https://skillicons.dev">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vuejs,vite,dotnet,cs&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vuejs,vite,dotnet,cs&theme=light" />
-        <img src="https://skillicons.dev/icons?i=vuejs,vite,dotnet,cs" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vuejs,vite,dotnet,cs&perline=7&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vuejs,vite,dotnet,cs&perline=7&theme=light" />
+        <img src="https://skillicons.dev/icons?i=vuejs,vite,dotnet,cs&perline=7" />
       </picture>
     </a>
   </p>
