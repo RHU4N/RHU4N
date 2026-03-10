@@ -53,11 +53,7 @@
     <h3>Skills 💡</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,nodejs,react,c,py,mysql,mongodb,androidstudio,java,spring,arduino,linux&perline=7&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,nodejs,react,c,py,mysql,mongodb,androidstudio,java,spring,arduino,linux&perline=7&theme=light" />
-      <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,c,py,mysql,mongodb,androidstudio,java,spring,arduino,linux&perline=7" />
-    </picture>
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,c,py,mysql,mongodb,androidstudio,java,spring,arduino,linux&perline=7" />
   </a>
 </p>
 </div>
@@ -66,11 +62,7 @@
     <h3>Tools 🛠️</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,notion,figma,postman&perline=7&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,notion,figma,postman&perline=7&theme=light" />
-        <img src="https://skillicons.dev/icons?i=git,notion,figma,postman&perline=7" />
-      </picture>
+      <img src="https://skillicons.dev/icons?i=git,notion,figma,postman&perline=7" />
     </a>
   </p>
 </div>
@@ -79,11 +71,7 @@
     <h3>Currently Learning 📚</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vuejs,vite,dotnet,cs&perline=7&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vuejs,vite,dotnet,cs&perline=7&theme=light" />
-        <img src="https://skillicons.dev/icons?i=vuejs,vite,dotnet,cs&perline=7" />
-      </picture>
+      <img src="https://skillicons.dev/icons?i=vuejs,vite,dotnet,cs&perline=7" />
     </a>
   </p>
 </div>
