@@ -1,5 +1,4 @@
-<h1>Olá, Eu sou o Rhuan</h1>
-
+##
 <table align="center" style="border:none;margin:auto;">
   <tr style="border:none;">
     <td style="border:none;padding:10px;vertical-align:middle;">
@@ -7,10 +6,14 @@
     </td>
     <td style="border:none;padding:10px;vertical-align:middle;text-align:left;">
       <h2>Sobre mim 👨‍💻</h2>
-      <p>Olá! Eu sou o Rhuan 👋  
-        Estudante de Desenvolvimento de Software Multiplataforma na Fatec Cotia  
-        Técnico em Desenvolvimento de Sistemas pela Etec Cotia  
-        Focado em desenvolvimento web e na construção de APIs e aplicações escaláveis</p>
+      <p>Olá! <b>Eu sou o Rhuan 👋</b>
+          Estudante de Desenvolvimento de Software Multiplataforma na Fatec Cotia  
+          Técnico em Desenvolvimento de Sistemas pela Etec Cotia  
+          Tenho interesse em desenvolvimento de software e na criação de soluções que resolvam problemas reais.  
+  Gosto de trabalhar em projetos práticos para evoluir minhas habilidades e ganhar experiência.  
+  Busco sempre aprender novas ferramentas, conceitos e boas práticas da área.  
+  Sou uma pessoa curiosa, organizada e com vontade constante de evoluir na área de tecnologia.  
+  Aqui no GitHub compartilho projetos e estudos desenvolvidos ao longo da minha jornada.</p>
     </td>
   </tr>
 </table>
@@ -108,8 +111,9 @@
   </p> -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RHU4N&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ###
+</details>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RHU4N/RHU4N/output/pacman-contribution-graph-dark.svg">
@@ -118,5 +122,3 @@
 </picture>
 
 <!-- _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_ -->
-
-</details>
