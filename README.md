@@ -54,9 +54,9 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,nodejs,react,c,py,mysql,mongodb,androidstudio,java,spring,arduino,linux&perline=7&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,nodejs,react,c,py,mysql,mongodb,androidstudio,java,spring,arduino,linux&perline=7&theme=light" />
-      <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,c,py,mysql,mongodb,androidstudio,java,spring,arduino,linux&perline=7" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,nodejs,react,c,py,mysql,mongodb,androidstudio,java,spring,arduino,linux&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,nodejs,react,c,py,mysql,mongodb,androidstudio,java,spring,arduino,linux&theme=light" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,c,py,mysql,mongodb,androidstudio,java,spring,arduino,linux" />
     </picture>
   </a>
 </p>
