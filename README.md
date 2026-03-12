@@ -18,7 +18,7 @@
   </tr>
 </table>
 
- <!-- <div align="center">
+ <div align="center">
   <p> Github Stats ⚡</p>
 <div align="center">
   <a href="https://github.com/RHU4N">
@@ -45,9 +45,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RHU4N&layout=compact&langs_count=15" />
 </picture>
 </div> 
-</div> -->
-
-<!-- <br> -->
+</div>
+<br> 
 
 <div align="center">
     <h3>Skills 💡</h3>
