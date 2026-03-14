@@ -25,7 +25,7 @@
   <a href="https://github.com/RHU4N">
 <picture align="center">
   <source height="175em"
-    srcset="https://github-readme-stats.vercel.app/api?username=RHU4N&show_icons=true&bg_color=000001&icon_color=78327D&text_color=471E4A&title_color=C151C9&border_color=6200...96&border_radius=15&include_all_commits=true&count_private=true&hide=contribs&locale=en"
+    srcset="https://github-readme-stats.vercel.app/api?username=RHU4N&show_icons=true&bg_color=000001&icon_color=78327D&text_color=471E4A&title_color=C151C9&border_color=620096&border_radius=15&include_all_commits=true&count_private=true&hide=contribs&locale=en"
     media="(prefers-color-scheme: dark)".
   />
   <source height="175em"
@@ -35,15 +35,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RHU4N&show_icons=true" />
 </picture>
 <picture align="center">
-  <source height="175em"
+  <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RHU4N&layout=pie&langs_count=10&bg_color=000001&text_color=9370DB&title_color=C151C9&border_color=620096&border_radius=25&locale=pt-br"
     media="(prefers-color-scheme: dark)"
   />
-  <source height="175em"
+  <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RHU4N&layout=pie&langs_count=10&bg_color=ffffff&text_color=7900ac&title_color=C151C9&border_color=620096&border_radius=25&locale=pt-br"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RHU4N&layout=pie&langs_count=10" />
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RHU4N&layout=pie&langs_count=10" />
 </picture>
 </div> 
 </div>
