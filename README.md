@@ -19,8 +19,7 @@
 </table>
 
  <div align="center">
-  <p> Github Stats ⚡</p>
-
+  <h3> Github Stats ⚡</h3>
 <div align="center">
   <a href="https://github.com/RHU4N">
 <picture align="center">
@@ -36,19 +35,17 @@
 </picture>
 <picture align="center">
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RHU4N&layout=pie&langs_count=10&bg_color=000001&text_color=9370DB&title_color=C151C9&border_color=620096&border_radius=25&locale=pt-br"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RHU4N&layout=compact&langs_count=10&bg_color=000001&text_color=9370DB&title_color=C151C9&border_color=620096&border_radius=25&locale=pt-br"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RHU4N&layout=pie&langs_count=10&bg_color=ffffff&text_color=7900ac&title_color=C151C9&border_color=620096&border_radius=25&locale=pt-br"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RHU4N&layout=compact&langs_count=10&bg_color=ffffff&text_color=7900ac&title_color=C151C9&border_color=620096&border_radius=25&locale=pt-br"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RHU4N&layout=pie&langs_count=10" />
+  <img width="250" height="175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RHU4N&layout=compact&langs_count=10" />
 </picture>
 </div> 
 </div>
-<br> 
-
 <div align="center">
     <h3>Skills 💡</h3>
 <p align="center">
