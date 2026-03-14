@@ -5,7 +5,7 @@
       <img src="https://gifdb.com/images/high/irritated-cat-typing-on-keyboard-e0awoyntdi7c0clj.gif" width="300" alt="Animação" style="display:block;">
     </td>
     <td style="border:none;padding:10px;vertical-align:middle;text-align:left;">
-      <h2>Sobre mim 👨‍💻</h2>
+      <h2>About me 👨‍💻</h2>
       <p>Olá! <b>Eu sou o Rhuan 👋</b>
           Estudante de Desenvolvimento de Software Multiplataforma na Fatec Cotia  
           Técnico em Desenvolvimento de Sistemas pela Etec Cotia  
