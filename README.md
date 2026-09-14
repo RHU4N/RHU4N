@@ -88,16 +88,16 @@
   
 <br>
 
-<details>
+<!--<details>
   <summary>Github Details 📝</summary>
 
-  <!-- <p align="center">
+   <p align="center">
       <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhu4n&rows=2&column=-1&margin-w=15&margin-h=15&theme=darkhub&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="rhu4n" /></a> 
-  </p> -->
+  </p> 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RHU4N&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ###
-</details>
+</details> -->
 
 
 <picture>
